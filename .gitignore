@@ -1,0 +1,33 @@
+# Generated outputs
+artifacts/
+artifacts_irma/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+
+# LaTeX / Paper (not part of code release)
+*.tex
+*.pdf
+*.bbl
+*.blg
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+refs.bib
+poster/
+
+# IEEE template
+IEEEtran.cls
+IEEEtran_HOWTO.pdf
+
+# VT template
+Unofficial_Template_for_Virginia_Tech/
+Unofficial_Template_for_Virginia_Tech.zip
